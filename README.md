@@ -32,7 +32,6 @@ Expo is used as a development environment so you will have to add the app into e
 
 <img src="https://raw.githubusercontent.com/accbjt/gecko-guide/master/images/Screen%20Shot%202020-02-13%20at%204.53.48%20PM.png" width=200 >
 
--
 ## Log in as a patient
 
 -
