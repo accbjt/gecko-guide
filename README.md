@@ -9,13 +9,13 @@
 - https://www.youtube.com/watch?v=iwORcAIHBqw
 
 ## Downloading the development application
-Go to the link below and download the application
+We use an application called Expo to run our application while in development. Below is a link to download the Expo application.
 
 - [Apple Device](https://apps.apple.com/app/apple-store/id982107779)
 - [Android Device](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 
 ## Opening App in Expo
-Expo is used as a development environment so you will have to add the app into expo. Here are the steps to doing it.
+Since we are using Expo as a development environment, you will have to add the app into Expo. Here are the steps to do it.
 
 - Go to [https://expo.io/@bill.john.tran/gecko-mobile](https://expo.io/@bill.john.tran/gecko-mobile)
 - Click on the the button `Open project using expo`. This will open up the app in Expo.
