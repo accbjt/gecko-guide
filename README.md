@@ -30,7 +30,7 @@ Expo is used as a development environment so you will have to add the app into e
 - Make sure you ask an admin for login credentials
 - Log in using your credentials
 
-<img src="https://raw.githubusercontent.com/accbjt/gecko-guide/master/images/IMG_6E273C888073-1.png" width=200 >
+<img src="https://raw.githubusercontent.com/accbjt/gecko-guide/master/images/Screen%20Shot%202020-02-13%20at%204.53.48%20PM.png" width=200 >
 
 -
 ## Log in as a patient
